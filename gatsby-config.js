@@ -9,8 +9,6 @@ module.exports = {
     {
       resolve: "gatsby-source-wordpress",
       options: {
-        typeName: "WPGraphQL",
-        fieldName: "wpgraphql",
         url: `https://cit.creativejuniors.com/graphql`,
       }
     },
