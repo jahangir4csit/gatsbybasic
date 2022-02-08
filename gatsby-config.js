@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: "gatsby-source-wordpress",
       options: {
-        url: `https://degign.com/cit/graphql`,
+        url: `http://creativejuniors.com/citbd/graphql`,
       }
     },
     `gatsby-plugin-react-helmet`,
